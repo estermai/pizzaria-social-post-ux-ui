@@ -7,4 +7,4 @@ Este foi o meu primeiro trabalho usando o Photopea, então ainda estou praticand
 - Photopea
 
 📸 Projeto
-Novo%20Projeto.jpg
+https://github.com/estermai/pizzaria-social-post-ux-ui/blob/main/Novo%20Projeto.jpg
